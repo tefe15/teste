@@ -1,11 +1,11 @@
 body {
     font-family: Arial, sans-serif;
-    background-color: #f8f9fa;
+    background-color: #0fd92a;
 }
 
 header {
     background-color: #f54291;
-    color: white;
+    color: rgb(100, 191, 15);
     padding: 20px;
 }
 
@@ -14,17 +14,17 @@ h1 {
 }
 
 h2, h3 {
-    color: #333;
+    color: #290896;
 }
 
 footer {
-    background-color: #333;
-    color: white;
+    background-color: #710f0f;
+    color: rgb(12, 225, 228);
     padding: 15px;
 }
 
 footer a {
-    color: #ffffff;
+    color: #04c9bf;
     text-decoration: none;
 }
 
@@ -33,10 +33,10 @@ footer a:hover {
 }
 
 #quiz-section {
-    background-color: white;
+    background-color: rgb(95, 13, 173);
     padding: 20px;
     border-radius: 8px;
-    box-shadow: 0px 4px 10px rgba(0, 0, 0, 0.1);
+    box-shadow: 0px 4px 10px rgba(17, 65, 162, 0.1);
 }
 
 button {
